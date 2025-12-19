@@ -15539,7 +15539,7 @@ const Qw = {
     },
     {
       id: 7,
-      src: "https://andiwelt.github.io/portfolio4/assets/_IMG_6819_01_big.jpg",
+      src: "https://andiwelt.github.io/portfolio4/assets/IMG_6819_01_big.jpg",
       category: "Landscape",
       title: "Misty Sunrise",
       type: "image",
